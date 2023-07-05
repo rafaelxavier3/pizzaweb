@@ -2,10 +2,11 @@
 
 criado com html, css e javascript
 
-![1](https://github.com/faelxvr/pizzaweb/assets/104323739/e235a8f2-328f-48ce-a728-eca1b184a0b8)
-![2](https://github.com/faelxvr/pizzaweb/assets/104323739/32fd9e13-09e2-49db-8a04-5fc5a1daf586)
-![3]![4](https://github.com/faelxvr/pizzaweb/assets/104323739/3d410460-a6fd-45f8-96ed-4ffcf5d2e02f)
-(https://github.com/faelxvr/pizzaweb/assets/104323739/09b652f9-cb9b-4093-b384-3eb9dfe92128)
-![5](https://github.com/faelxvr/pizzaweb/assets/104323739/9053423f-b7db-42a7-80ac-cd015e9056fa)
-![6](https://github.com/faelxvr/pizzaweb/assets/104323739/20e51f8c-d5d3-418e-ac35-9102796b18f3)
-![7](https://github.com/faelxvr/pizzaweb/assets/104323739/14c3d693-3bf6-490e-a67c-abd752d74a51)
+
+![1](https://github.com/faelxvr/pizzaweb/assets/104323739/5a14a1b2-2765-47ca-bab3-930dd3a2c16c)
+![2](https://github.com/faelxvr/pizzaweb/assets/104323739/6dfbfa6f-04ef-4a08-ba60-41acb0dd65f7)
+![3](https://github.com/faelxvr/pizzaweb/assets/104323739/75381373-b304-459f-87d3-fd9e8d405afc)
+![4](https://github.com/faelxvr/pizzaweb/assets/104323739/0b7a6177-b13e-4405-9d10-b558089ae677)
+![5](https://github.com/faelxvr/pizzaweb/assets/104323739/fae446ee-a6a6-4a73-a7ca-74a08781cfe0)
+![6](https://github.com/faelxvr/pizzaweb/assets/104323739/4120c182-d95d-46ef-908e-6490ea9d3e8a)
+![7](https://github.com/faelxvr/pizzaweb/assets/104323739/8b27c441-caa6-49d7-bef9-f99453f9bc91)
